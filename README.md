@@ -5,6 +5,8 @@ In this react project I applied the concept of ``` props ``` as it saved several
 It made it easy to just create a component and the data that I'm recieving (say : from external api) can turns into components depending on the one I created.
 
 Awesome, right.
+
+Check it out : [Travel Journal](https://ibrahimtravels.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
