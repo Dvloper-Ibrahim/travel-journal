@@ -1,12 +1,13 @@
 # Travel Journal App
 
-In this react project I applied the concept of ``` props ``` as it saved several lines of code.
+In this react project I applied the concept of `props` as it saved several lines of code.
 
-It made it easy to just create a component and the data that I'm recieving (say : from external api) can turns into components depending on the one I created.
+It made it easy to just create a component and the data that I'm receiving (say: from external API) can turn into components depending on the one I created.
 
 Awesome, right.
 
 Check it out : [Travel Journal](https://ibrahimtravels.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
